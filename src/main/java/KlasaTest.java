@@ -7,5 +7,7 @@ public class KlasaTest {
         System.out.println("Nowa klasa5");
         System.out.println("Nowa klasa6");
         System.out.println("Nowa klasa7");
+        System.out.println("Nowa klasa8");
+        System.out.println("Nowa klasa9");
     }
 }
